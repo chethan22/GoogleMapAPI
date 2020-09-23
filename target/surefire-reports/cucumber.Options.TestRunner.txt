@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: cucumber.Options.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 22.799 s <<< FAILURE! - in cucumber.Options.TestRunner
+Verify if placed is being Succesffuly added using AddPlaceAPI(Validating Place API's)  Time elapsed: 20.887 s  <<< ERROR!
+java.net.UnknownHostException: rahulshettyacademy.com
+
+verify if delete place Functionality is working(Validating Place API's)  Time elapsed: 0.038 s  <<< ERROR!
+java.net.UnknownHostException: rahulshettyacademy.com
+
