@@ -13,8 +13,8 @@ Body:
 {
     "accuracy": 50,
     "name": "ChethanShettykpc",
-    "phone_number": "9535649774",
-    "address": "kumbarahalli",
+    "phone_number": "953564977412364",
+    "address": "kumsfdgfhgjdsfdgbarahallidfghj",
     "website": null,
     "language": "Kannada english",
     "location": {
